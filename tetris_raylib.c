@@ -1,4 +1,4 @@
-//Sk Asif Hossain CSE/25095/1495👑
+//Sk Asif Hossain CSE/25095/1495
 //Pradhuman Singh Khichi CSE/25065/1465
 //Kushagra Srivastava CSE/25045/1445
 //Priyanshu Singh Shekhawat CSE/25069/1469
